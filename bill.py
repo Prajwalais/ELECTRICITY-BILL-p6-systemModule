@@ -10,5 +10,5 @@ else:
 bill_amount = units * RATE
 
 print("Units Consumed:", units)
-print("Rate per Unit: ₹", RATE)
-print("Total Bill Amount: ₹", bill_amount)
+print("Rate per Unit: ", RATE)
+print("Total Bill Amount: ", bill_amount)
